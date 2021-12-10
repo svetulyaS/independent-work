@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">practica ltask 10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">Hello</string>
+    <string name="my_fragments">My fragments</string>
+    <string name="switch_fragment">switch fragment</string>
+    <string name="start_fragment">start fragment</string>
+    <string name="end_fragment">End_fragment</string>
+    <string name="_1_fragment">1 fragment</string>
+    <string name="_2_fragment">2 fragment</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="music">Music</string>
+    <string name="gallery">Gallery</string>
+    <string name="video">Video</string>
+    <string name="foto">Foto</string>
+    <string name="welcome">Welcome</string>
+    <string name="classical_music">Classical music</string>
+    <string name="blues">Blues</string>
+    <string name="jazz">Jazz</string>
+    <string name="forest">Forest</string>
+    <string name="thunderstorm">Thunderstorm</string>
+
+
+</resources>
